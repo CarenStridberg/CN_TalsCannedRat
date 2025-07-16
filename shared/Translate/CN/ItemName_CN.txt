@@ -1,0 +1,9 @@
+ItemName_CN = {
+    ItemName_cannedratsScript.CannedRat = "田鼠罐头",
+    ItemName_cannedratsScript.CannedMouse = "家鼠罐头",
+    ItemName_cannedratsScript.CannedSquirrel = "松鼠罐头",
+    ItemName_cannedratsScript.CannedRabbit = "兔子罐头",
+    ItemName_cannedratsScript.CannedBird = "鸟罐头",
+    ItemName_cannedratsScript.CannedWorm = "蠕虫罐头",
+    ItemName_cannedratsScript.CannedRoach = "蟑螂罐头",
+}

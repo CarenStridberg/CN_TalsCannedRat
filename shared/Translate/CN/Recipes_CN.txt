@@ -1,0 +1,16 @@
+Recipes_CN = {
+    Recipe_Can_the_Rat = "把田鼠装进罐头",
+    Recipe_Can_the_Mouse = "把家鼠装进罐头",
+    Recipe_Can_the_Squirrel = "把松鼠装进罐头",
+    Recipe_Can_the_Rabbit = "把兔子装进罐头",
+    Recipe_Can_the_Bird = "把鸟装进罐头",
+    Recipe_Can_the_Worm = "把蠕虫装进罐头",
+    Recipe_Can_the_Cockroach = "把蟑螂装进罐头",
+    Recipe_Uncan_the_Rat = "打开田鼠罐头",
+    Recipe_Uncan_the_Mouse = "打开家鼠罐头",
+    Recipe_Uncan_the_Squirrel = "打开松鼠罐头",
+    Recipe_Uncan_the_Rabbit = "打开兔子罐头",
+    Recipe_Uncan_the_Bird = "打开鸟罐头",
+    Recipe_Uncan_the_Worm = "打开蠕虫罐头",
+    Recipe_Uncan_the_Cockroach = "打开蟑螂罐头",
+}
